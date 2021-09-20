@@ -36,7 +36,7 @@ def palindromes():
 
 def palingrams():
     """Find all word-pair palingrams in a dictionary file"""
-    word_list = load('res/dict.txt')
+    word_list = load('res/dict_new.txt')
     pali_list = []
     for word in word_list:
         end = len(word)
