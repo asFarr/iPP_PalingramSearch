@@ -1,7 +1,7 @@
 """
 Palingram Generator -- Written by Alex Farr
 
-Based on Impractical Python Projects by companyNameHere.
+Based on Impractical Python Projects by Lee Vaughan.
 Searches dictionary file in order to first
 determine palindromes, and then build them into
 palingram sentences after finding them.
